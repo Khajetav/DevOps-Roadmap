@@ -80,5 +80,6 @@ print(tempDict.values) # prints all the values
 # a collection, but not ordered or indexed
 # can only put int, float, complex or bool, string or tuple
 # no dictionaries or lists inside
-# only immutable objects are hashable
+# only immutable (non changable) objects are hashable
 exampleSet = {"apple","banana","cherry"}
+
